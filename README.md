@@ -1,4 +1,4 @@
-<p align="center"><img src="https://static10.tgstat.ru/channels/_0/2b/2b74b2dbb867ad918d2af78d8a966d68.jpg" width="400"></p>
+<p align="rtl"><img src="https://static10.tgstat.ru/channels/_0/2b/2b74b2dbb867ad918d2af78d8a966d68.jpg" width="400"></p>
 
 
 ## سورس ربات های تلگرام استفاده شده در برنامه باتینو
